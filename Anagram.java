@@ -29,7 +29,7 @@ public class Anagram {
 
     System.out.println(result);
 
-}
+
       
 
     
